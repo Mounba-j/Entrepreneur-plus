@@ -1,0 +1,15 @@
+{
+    "dart.hotReloadOnSave": "all",
+    "dart.flutterHotReloadOnSave": "all",
+    "files.autoSaveDelay": 5000,
+    "editor.formatOnSaveMode": "modifications",
+    "files.autoSave": "afterDelay",
+    "dart.hotReloadProgress": "statusBar",
+    "dart.previewHotReloadOnSaveWatcher": true,
+    "java.editor.reloadChangedSources": "auto",
+    "java.debug.settings.hotCodeReplace": "auto",
+    "liveServer.settings.wait": 1000,
+    "files.autoSaveWhenNoErrors": true,
+    "go.testOnSave": true,
+    "java.configuration.updateBuildConfiguration": "automatic"
+}

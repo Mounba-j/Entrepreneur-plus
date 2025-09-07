@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1091563745422",
+    "project_id": "entrepreneur-plus",
+    "storage_bucket": "entrepreneur-plus.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091563745422:android:0d62d261b872a9d5dd59df",
+        "android_client_info": {
+          "package_name": "com.example.entrepreneur_plus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiWCA6Nn9SqIaGw_dWj_IT4Jnkv3bUppA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
